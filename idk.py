@@ -1,6 +1,6 @@
 import streamlit as st
 
-name = st.text_input("Enter your name")
+namnug = st.text_input("Enter your namnug")
 
 st.title("Did you know?")
 st.subheader("can i have 20 bath?")
